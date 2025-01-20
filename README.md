@@ -1,5 +1,8 @@
 # Generic Store Data Analysis Project
 
+Dashboard Preview : ![Generic Store Sales Dashboard](https://github.com/user-attachments/assets/5d9c5036-613e-4dd8-82ef-88cbaf70c09a)
+
+
 ## Objective
 
 The goal of this project was to analyze sales data from a generic store and create an interactive dashboard using Microsoft Excel. The project involved cleaning and processing raw data, performing key analytical computations, and visualizing the results in an intuitive format. This end-to-end process showcases how Excel can be leveraged for data analysis and business intelligence.
